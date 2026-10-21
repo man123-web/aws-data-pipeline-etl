@@ -1,0 +1,8 @@
+OrderID,Customer,Amount,Region
+101,Amit,5000,Mumbai
+102,John,7000,Bangalore
+103,,6000,Delhi
+104,Amit,5000,Mumbai
+105,Sara,8000,Chennai
+106,Rahul,9000,Pune
+107,Priya,4000,Delhi
